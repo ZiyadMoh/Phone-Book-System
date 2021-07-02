@@ -21,3 +21,8 @@ Layla 	  7777777777 <br />
 If the is found return the name, else return that the inputted number is not found.  <br />
 
 If the inputted number was more or less than 10 digits. Return that the number is invalid. <br />
+
+
+<b> Addional features:</b>
+  1- Search By Name. #Implemented <br />
+  2- Add a new contact #Implemented <br />
