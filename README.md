@@ -10,13 +10,16 @@
 
 <b>2- Requirements:</b>  <br />
 Build a program that represents a phone book, it receives a phone number, and returns the name of the owner of that inputted phone number e.g.:  <br />
-Amal     	1111111111 <br />
-Mohammed 	2222222222 <br />
-Khadijah 	3333333333  <br />
-Abdullah 	4444444444 <br />
-Rawan 	  5555555555 <br />
-Faisal 	  6666666666 <br />
-Layla 	  7777777777 <br />
+ 
+
+Name          | Phone
+------------- | -------------
+Amal          | 1111111111
+Khadijah       | 2222222222
+Abdullah      | 3333333333
+Rawan  | 5555555555
+Faisal  | 6666666666
+Layla  | 7777777777
 
 If the is found return the name, else return that the inputted number is not found.  <br />
 
