@@ -10,12 +10,12 @@ The Goals of project are:
 
 Requirements:
 Build a program that represents a phone book, it receives a phone number, and returns the name of the owner of that inputted phone number e.g.:
-Amal 	1111111111,
-Mohammed 	2222222222,
-Khadijah 	3333333333,
-Abdullah 	4444444444,
-Rawan 	5555555555,
-Faisal 	6666666666,
+Amal 	1111111111
+Mohammed 	2222222222
+Khadijah 	3333333333
+Abdullah 	4444444444
+Rawan 	5555555555
+Faisal 	6666666666
 Layla 	7777777777
 
 If the is found return the name, else return that the inputted number is not found.
