@@ -27,5 +27,5 @@ If the inputted number was more or less than 10 digits. Return that the number i
 
 
 <b>3- Addional features:</b> <br />
-  1- Search By Name. #Implemented <br />
-  2- Add a new contact #Implemented <br />
+  1. Search By Name. #Implemented <br />
+  2. Add a new contact #Implemented <br />
