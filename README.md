@@ -9,7 +9,7 @@
 4) Understanding how loops and if statements work with each other. <br />
 
 <b>2- Requirements:</b>  <br />
-.Build a program that represents a phone book, it receives a phone number, and returns the name of the owner of that inputted phone number e.g. :  <br />
+. Build a program that represents a phone book, it receives a phone number, and returns the name of the owner of that inputted phone number e.g. :  <br />
  
 
 Name          | Phone
@@ -21,9 +21,9 @@ Rawan  | 5555555555
 Faisal  | 6666666666
 Layla  | 7777777777
 
-.If the is found return the name, else return that the inputted number is not found.  <br />
+. If the is found return the name, else return that the inputted number is not found.  <br />
 
-.If the inputted number was more or less than 10 digits. Return that the number is invalid. <br />
+. If the inputted number was more or less than 10 digits. Return that the number is invalid. <br />
 
 
 <b>3- Addional features:</b> <br />
