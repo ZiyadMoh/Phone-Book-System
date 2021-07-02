@@ -9,7 +9,7 @@
 4) Understanding how loops and if statements work with each other. <br />
 
 <b>2- Requirements:</b>  <br />
-Build a program that represents a phone book, it receives a phone number, and returns the name of the owner of that inputted phone number e.g.:  <br />
+Build a program that represents a phone book, it receives a phone number, and returns the name of the owner of that inputted phone number e.g. :  <br />
  
 
 Name          | Phone
