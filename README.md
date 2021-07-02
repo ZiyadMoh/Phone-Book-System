@@ -1,6 +1,6 @@
 # PhoneBook
 
-##A project for an online course named python 101 held by Tuwaiq E-lerning platform. ## <br />
+## A project for an online course named python 101 held by Tuwaiq E-lerning platform. ## <br />
 
 <b>1- The Goals of project are:</b>  <br />
 1) Understanding the functionalities of functions and how they work. <br />
