@@ -28,4 +28,4 @@ Layla  | 7777777777
 
 <b>3- Addional features:</b> <br />
   1. Search By Name. #Implemented <br />
-  2. Add a new contact #Implemented <br />
+  2. Add a new contact. #Implemented <br />
